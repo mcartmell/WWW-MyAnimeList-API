@@ -1,16 +1,8 @@
 WWW-MyAnimeList-API
 
-The README is used to introduce the module and provide instructions on
-how to install the module, any machine dependencies it may have (for
-example C compilers and installed libraries) and any other information
-that should be provided before the module is installed.
+This module provides an interface to MyAnimeList's REST API (http://myanimelist.net/modules.php?go=api). The API allows you to search and retrieve details on anime and manga titles, as well as maintain the list of anime and manga titles that you've watched.
 
-A README file is required for CPAN modules since CPAN extracts the README
-file from a module distribution so that people browsing the archive
-can use it to get an idea of the module's uses. It is usually a good idea
-to provide version information here so that people can decide whether
-fixes for the module are worth downloading.
-
+All requests use HTTP auth, so you'll first need to register an account at http://myanimelist.net/register.php.
 
 INSTALLATION
 
