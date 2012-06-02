@@ -1,0 +1,10 @@
+Changes
+lib/WWW/MyAnimeList/API.pm
+lib/WWW/MyAnimeList/API/AnimeEntry.pm
+Makefile.PL
+MANIFEST			This list of files
+README
+t/00-load.t
+t/manifest.t
+t/pod-coverage.t
+t/pod.t
